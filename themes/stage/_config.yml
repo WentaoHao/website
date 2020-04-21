@@ -1,0 +1,53 @@
+
+# html lang
+language: en
+
+# Miscelaneous
+favicon: /favicon.ico
+
+# avatar
+avatar: /images/avatar.jpg
+
+# social
+social:
+  github: "https://github.com/wentaohao"
+  weibo: "#"
+# about and comment
+about:
+  enable: true
+  comment: true
+
+# awesome sentences
+sentences:
+- How goes the world with you?
+- 云里写诗，泥里生活，岁月里洒脱。
+- 时光荏苒，旦夕之间，略有遗憾，似白驹过隙，蹉跎自悟。
+- 欲买桂花同载酒，终不似，少年游。
+- 此生棠棣开荼蘼，三遍荣华不如你。
+- 最是人间留不住，朱颜辞镜花辞树。
+- 人生自是有情痴，此恨不关风与月。
+- 已识乾坤大，犹怜草木青。
+- 你本无意穿堂风，偏偏孤据引山洪。
+- 一点浩然气，千里快哉风。
+- 赌书消得泼茶香，当时只道是寻常。
+- 秋风生渭水，落叶满长安。
+- 要等时间嘉许，等春风得意。
+- 你若爱，生活哪里都可爱。
+- 先生，别翻旧时簿。
+
+# valine https://github.com/xCss/Valine
+
+valine:
+  enable: true
+  appid: GV9bOGJTE9kej1irLoW8D7PK-gzGzoHsz
+  appkey: U1kgYRmAKV1vwWYQqo2W1wze
+  notify: false # mail notifier
+  avatar: mm #avatar style：''/mm/identicon/monsterid/wavatar/retro/hide
+  verify: false # Verification code
+  placeholder: ヾﾉ≧∀≦)o来啊，快活啊! 
+
+# stylesheets loaded in the <head>
+stylesheets:
+- /lib/font-awesome/css/font-awesome.min.css
+- /css/stage.css
+- /css/avatar-bg.css
