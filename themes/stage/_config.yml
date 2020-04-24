@@ -41,7 +41,7 @@ valine:
   enable: true
   appid: GV9bOGJTE9kej1irLoW8D7PK-gzGzoHsz
   appkey: U1kgYRmAKV1vwWYQqo2W1wze
-  notify: false # mail notifier
+  notify: true # mail notifier
   avatar: mm #avatar style：''/mm/identicon/monsterid/wavatar/retro/hide
   verify: false # Verification code
   placeholder: ヾﾉ≧∀≦)o来啊，快活啊! 
