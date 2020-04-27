@@ -8,6 +8,6 @@ tags: SQL
 
 记录:
 
-* 来自CSDN[通过sqli-labs学习sql注入——基础挑战之less1-10](https://blog.csdn.net/u012763794/article/details/51207833)
+* 来自CSDN  [通过sqli-labs学习sql注入——基础挑战之less1-10](https://blog.csdn.net/u012763794/article/details/51207833)
 
-* 来自知乎[SQL注入：Error Based Injection](https://zhuanlan.zhihu.com/p/74907340)
+* 来自知乎  [SQL注入：Error Based Injection](https://zhuanlan.zhihu.com/p/74907340)
